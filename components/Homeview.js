@@ -51,8 +51,6 @@ export default function Homeview() {
     );
   };
 
-  const isSmallScreen = window.innerWidth <= 600;
-
   const corevalue = [
     {
       title: "Dedication",
