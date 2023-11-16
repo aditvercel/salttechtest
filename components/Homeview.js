@@ -178,7 +178,7 @@ export default function Homeview() {
         </div>
         <div>
           <Swiper
-            slidesPerView={isSmallScreen ? 1 : 3}
+            slidesPerView={3}
             spaceBetween={30}
             pagination={{
               clickable: true,
